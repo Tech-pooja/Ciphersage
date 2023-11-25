@@ -1,0 +1,50 @@
+<html>
+<head><title>profile</title>
+<style>
+
+body {
+ background-image: url("img15.gif");
+	background-repeat: no-repeat;
+}
+
+
+
+</style>
+
+
+
+
+</head>
+
+<body background-image="img15.gif">
+
+
+
+
+
+<div>
+		<div class="img"><img src="pooja.jpeg" alt="profile photo"></div>
+		<div>
+				<h3>POOJA SHARMA</h3>
+				<h5>pooja081</h5>
+				<h6>pooja@gmail.com</h6>
+				<br><br>
+				<p>Published blog: 3</p>
+				<p>
+				
+				<>
+				
+		
+		</div>
+
+
+
+</div>
+
+
+
+
+
+
+</body>
+</html>
